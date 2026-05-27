@@ -1,5 +1,17 @@
 # Head First SQL, 2nd edition
 
+Code and datasets for _Head First SQL, 2nd edition_ by Kimberly Fessel. 
+
+This repositority contains chapter scripts and supporting resources for readers learning about SQL.
+
+Published by: O'Reilly Media, July 2026.
+
+<p>
+  <a href="https://learning.oreilly.com/library/view/head-first-sql/9781098163648/"><img src="https://img.shields.io/badge/OReilly_Platform-Read-red?style=flat-square&logo=oreilly" /></a>
+  <a href="https://www.amazon.com/Head-First-SQL-Learners-Querying/dp/1098163656/"><img src="https://img.shields.io/badge/Amazon-Purchase-yellow?style=flat-square" /></a>
+</p>
+
+
 
 ## About the Author
 
