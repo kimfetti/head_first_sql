@@ -17,6 +17,8 @@ The `.sql` files allow readers to recreate the book databases to work through ex
 
 ## Repository Structure
 
+- [datasets/](/datasets) → Data files used throughout the book
+
 ## Requirements
 
 - MySQL (Version 8.0+) _preferred_
