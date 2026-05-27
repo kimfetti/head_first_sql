@@ -11,13 +11,19 @@ Published by: O'Reilly Media, July 2026.
 
 ## Who this Repository Is For
 
-This repository is indended for readers following along with the book. It contains chapter scripts and supporting resources for learning about SQL. 
+This repository is indended for readers following along with the book. It contains scripts for recreating the chapter datasets.
 
-The `.sql` files allow readers to recreate the book databases to work through examples and practice SQL by examining the data on their own machines.
+The `.sql` files allow readers to build the book’s datasets locally and practice SQL by working through the examples and exploring the data themselves.
 
 ## Repository Structure
 
-- [datasets/](/datasets) → Data files used throughout the book
+`├── README.md` <br>
+`└── datasets/` <br>
+`    ├── appendix_i/` <br>
+`    ├── chapter_01/` <br>
+`    └── chapter_05/` <br>
+
+Data files are organized by the chapter in which they are first introduced. All datasets can be found in the `datasets/` directory.
 
 ## Requirements
 
