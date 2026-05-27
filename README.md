@@ -19,9 +19,13 @@ The `.sql` files allow readers to build the book’s datasets locally and practi
 
 `├── README.md` <br>
 `└── datasets/` <br>
-`    ├── appendix_i/` <br>
-`    ├── chapter_01/` <br>
-`    └── chapter_05/` <br>
+`    ├── appendix_i/` [trees.sql](/datasets/appendix_i/trees.sql)<br>
+`    ├── chapter_01/` [locations.sql](/datasets/chapter_01/locations.sql)<br>
+`    ├── chapter_03/` [foods_setup.sql](/datasets/chapter_03/foods_setup.sql)<br>
+`    ├── chapter_05/` [neighborhood_db_setup.sql](/datasets/chapter_05/neighborhood_db_setup.sql)<br>
+`    ├── chapter_08/` [travel_db_setup.sql](/datasets/chapter_08/travel_db_setup.sql)<br>
+`    ├── chapter_10/` [camp_calloway_db_setup.sql](/datasets/chapter_10/camp_calloway_db_setup.sql)<br>
+`    └── chapter_15/` [checking.sql](/datasets/chapter_15/checking.sql)<br>
 
 Data files are organized by the chapter in which they are first introduced. All datasets can be found in the `datasets/` directory.
 
