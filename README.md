@@ -2,7 +2,7 @@
 
 Code and datasets for _Head First SQL, 2nd edition_ by Kimberly Fessel. 
 
-Published by: O'Reilly Media, July 2026.
+Published by: O'Reilly Media, June 2026.
 
 <p>
   <a href="https://learning.oreilly.com/library/view/head-first-sql/9781098163648/"><img src="https://img.shields.io/badge/OReilly_Platform-Read-red?style=flat-square&logo=oreilly" /></a>
